@@ -28,4 +28,4 @@ _Your study and submission work here..._
 
 2.2.2: [Video](), [Program](programs/microbit-program-2-2-2.js)
 
-2.2.3: [Video](), [Program](programs/)
+2.2.3: [Video](), [Program](programs/microbit-program-2-2-3.js)
