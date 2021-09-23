@@ -17,3 +17,9 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 ---
 
 _Your study and submission work here..._
+
+1.2.1: [Video](), [Program](programs/microbit-program-1-2-1.js)
+
+1.2.2: [Video](), [Program](programs/microbit-program-1-2-2.js)
+
+1.2.3: [Video](), [Program](programs/microbit-program-1-2-3.js)
