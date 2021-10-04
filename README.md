@@ -18,20 +18,26 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 
 _Your study and submission work here..._
 
-1.2.1: [Video](), [Program](programs/microbit-program-1-2-1.js)
+1.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1798831905&b=3583761&linkType=video), [Program](programs/microbit-program-1-2-1.js)
 
-1.2.2: [Video](), [Program](programs/microbit-program-1-2-2.js)
+1.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=2123561003&b=3583772&linkType=video), [Program](programs/microbit-program-1-2-2.js)
 
-1.2.3: [Video](), [Program](programs/microbit-program-1-2-3.js)
+1.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1060898398&b=3583785&linkType=video), [Program](programs/microbit-program-1-2-3.js)
 
-2.2.1: [Video](), [Program](programs/microbit-program-2-2-1.js)
+2.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=457772674&b=3583795&linkType=video), [Program](programs/microbit-program-2-2-1.js)
 
-2.2.2: [Video](), [Program](programs/microbit-program-2-2-2.js)
+2.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=393643683&b=3583800&linkType=video), [Program](programs/microbit-program-2-2-2.js)
 
-2.2.3: [Video](), [Program](programs/microbit-program-2-2-3.js)
+2.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1673388573&b=3583811&linkType=video), [Program](programs/microbit-program-2-2-3.js)
 
-3.2.1: [Video](), [Program](programs/microbit-program-3-2-1.js)
+3.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=457772674&b=3583795&linkType=video), [Program](programs/microbit-program-3-2-1.js)
 
-3.2.2: [Video](), [Program](programs/microbit-program-3-2-2.js)
+3.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1147719203&b=3583821&linkType=video), [Program](programs/microbit-program-3-2-2.js)
 
-3.2.3: [Video](), [Program](programs/microbit-program-3-2-3.js)
+3.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1673388573&b=3583811&linkType=video), [Program](programs/microbit-program-3-2-3.js)
+
+4.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1087722527&b=3583829&linkType=video), [Program](programs/microbit-program-4-2-1.js)
+
+4.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1559482930&b=3583845&linkType=video), [Program](programs/microbit-program-4-2-2.js)
+
+4.2.3: [Video](), [Program](programs/)
