@@ -29,3 +29,9 @@ _Your study and submission work here..._
 2.2.2: [Video](), [Program](programs/microbit-program-2-2-2.js)
 
 2.2.3: [Video](), [Program](programs/microbit-program-2-2-3.js)
+
+3.2.1: [Video](), [Program](programs/microbit-program-3-2-1.js)
+
+3.2.2: [Video](), [Program](programs/microbit-program-3-2-2.js)
+
+3.2.3: [Video](), [Program](programs/microbit-program-3-2-3.js)
