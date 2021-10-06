@@ -40,4 +40,17 @@ _Your study and submission work here..._
 
 4.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1559482930&b=3583845&linkType=video), [Program](programs/microbit-program-4-2-2.js)
 
-4.2.3: [Video](), [Program](programs/)
+4.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1814083210&b=3593954&linkType=video), [Program](programs/microbit-program-4-2-3.js)
+This program has an issue I could not resolve involving stuttering and flashing in the Coding and Freqbars functions after the Rain function has been called. Otherwise, all
+functions work as intended.
+
+5.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1963967120&b=3594135&linkType=video), [Program](programs/microbit-program-5-2-1.js)
+
+5.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1147719203&b=3583821&linkType=video), [Program](programs/microbit-program-5-2-2.js)
+
+5.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=624425160&b=3594476&linkType=video), [Program](programs/microbit-program-5-2-3.js)
+I still can't figure out the rain stutter issue, but the rest all work fine.
+
+5.2.4: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1307655611&b=3594502&linkType=video), [Program](programs/microbit-program-5-2-4.js)
+
+5.2.5: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1726055852&b=3594453&linkType=video), [Program](programs/microbit-program-5-2-5.js)
