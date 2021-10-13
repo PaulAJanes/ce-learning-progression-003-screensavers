@@ -55,12 +55,12 @@ I still can't figure out the rain stutter issue, but the rest all work fine.
 
 5.2.5: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1726055852&b=3594453&linkType=video), [Program](programs/microbit-program-5-2-5.js)
 
-6.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=624425160&b=3594476&linkType=video), [Program](programs/microbit-program-6-2-1.js) Same problem again. I still can't figure it out. I'm pretty sure it's just no well optimized for the MicroBit's limited resources.
+6.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=624425160&b=3594476&linkType=video), [Program](programs/microbit-program-6-2-1.js) Same problem again. I still can't figure it out. I'm pretty sure it's just not well optimized for the MicroBit's limited resources.
 
 6.2.2: [Video](), [Program](programs/microbit-program-6-2-2.js)
 
-7.2.1: [Video](), [Program](programs/microbit-program-7-2-1.js)
+7.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1187794795&b=3621724&linkType=video), [Program](programs/microbit-program-7-2-1.js)
 
 7.2.2: [Video](), [Program](programs/)
 
-7.2.3: [Vidoe](), [Program](programs/)
+7.2.3: [Video](), [Program](programs/)
