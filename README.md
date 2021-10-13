@@ -57,10 +57,10 @@ I still can't figure out the rain stutter issue, but the rest all work fine.
 
 6.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=624425160&b=3594476&linkType=video), [Program](programs/microbit-program-6-2-1.js) Same problem again. I still can't figure it out. I'm pretty sure it's just not well optimized for the MicroBit's limited resources.
 
-6.2.2: [Video](), [Program](programs/microbit-program-6-2-2.js)
+6.2.2: Video, [Program](programs/microbit-program-6-2-2.js) I don't have a working video. I can't get the program to work on the actual MicroBit. It works perfectly in the simulator, but I don't know enough to troubleshoot the transfer.
 
 7.2.1: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1187794795&b=3621724&linkType=video), [Program](programs/microbit-program-7-2-1.js)
 
-7.2.2: [Video](), [Program](programs/)
+7.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1187794795&b=3621724&linkType=video), [Program](programs/microbit-program-7-2-2.js)
 
 7.2.3: [Video](), [Program](programs/)
