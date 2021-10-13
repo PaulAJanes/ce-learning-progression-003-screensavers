@@ -75,10 +75,10 @@ images.createImage(`00000
 function scrollArray(Scrolly: Array<number>){
     for(let i = 0; i < Scrolly.length; i++){
         for(let j = 0; j < Scrolly[i].toString().length; j++){
-            MyImages[parseInt(Scrolly[i].toString().charAt(j))].scrollImage(0, 100);
+            MyImages[parseInt(Scrolly[i].toString().charAt(j))].scrollImage(1, 100);
         }
         pause(1000);
-        MyImages[10].scrollImage(0, 100);
+        MyImages[10].scrollImage(1, 100);
     }
 }
 
