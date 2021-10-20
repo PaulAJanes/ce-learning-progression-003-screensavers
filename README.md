@@ -63,4 +63,8 @@ I still can't figure out the rain stutter issue, but the rest all work fine.
 
 7.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1187794795&b=3621724&linkType=video), [Program](programs/microbit-program-7-2-2.js)
 
-7.2.3: [Video](), [Program](programs/microbit-program-7-2-3.js) I can't get the program optimized sufficient to do a 7 high tower. It works for 6 and lower, though, but crashes about 80% of the way through the 7.
+7.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1899483582&b=3652159&linkType=video), [Program](programs/microbit-program-7-2-3.js)
+
+8.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1945499911&b=3652140&linkType=video), [Program](programs/microbit-program-8-2-2.js)
+
+8.2.3: [Video](), [Program](programs/)
