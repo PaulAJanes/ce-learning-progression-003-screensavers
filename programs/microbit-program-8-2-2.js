@@ -57,38 +57,38 @@ namespace Complex {
         }
         basic.showString(Francis.imaginary);
     }
-}
 
-class ComplexNumber {
-    private _real: number;
-    private _imaginary: string;
+    export class ComplexNumber {
+        private _real: number;
+        private _imaginary: string;
 
-    constructor(real: number, imaginary: string) {
-        this._real = real;
-        this._imaginary = imaginary;
-    }
+        constructor(real: number, imaginary: string) {
+            this._real = real;
+            this._imaginary = imaginary;
+        }
 
-    get real() {
-        return this._real;
-    }
+        get real() {
+            return this._real;
+        }
 
-    set real(NewReal: number) {
-        this._real = NewReal;
-    }
+        set real(NewReal: number) {
+            this._real = NewReal;
+        }
 
-    get imaginary(): string {
-        return this._imaginary;
-    }
+        get imaginary(): string {
+            return this._imaginary;
+        }
 
-    set imaginary(NewImag: string) {
-        this._imaginary = NewImag;
-    }
+        set imaginary(NewImag: string) {
+            this._imaginary = NewImag;
+        }
 
-    get imaginNum(): number{
-        if(this.imaginary.charAt(0) == '-'){
-            return -1*parseInt(this.imaginary.substr(2, this.imaginary.length-1));
-        } else {
-            return parseInt(this.imaginary.substr(1, this.imaginary.length-1));
+        get imaginNum(): number{
+            if(this.imaginary.charAt(0) == '-'){
+                return -1*parseInt(this.imaginary.substr(2, this.imaginary.length-1));
+            } else {
+                return parseInt(this.imaginary.substr(1, this.imaginary.length-1));
+            }
         }
     }
 }
@@ -105,8 +105,8 @@ let Mult: Image = images.createImage(`00000
                                       01010
                                       00000`)
 
-let George: ComplexNumber = new ComplexNumber(6, "i7");
-let Howard: ComplexNumber = new ComplexNumber(-8, "-i5");
+let George: Complex.ComplexNumber = new Complex.ComplexNumber(6, "i7");
+let Howard: Complex.ComplexNumber = new Complex.ComplexNumber(-8, "-i5");
 
 Complex.add(George, Howard, true);
 
