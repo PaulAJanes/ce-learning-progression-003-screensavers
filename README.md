@@ -66,3 +66,5 @@ I still can't figure out the rain stutter issue, but the rest all work fine.
 7.2.3: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1899483582&b=3652159&linkType=video), [Program](programs/microbit-program-7-2-3.js)
 
 8.2.2: [Video](https://msudenver.yuja.com/Dashboard/Permalink?authCode=1945499911&b=3652140&linkType=video), [Program](programs/microbit-program-8-2-2.js)
+
+I'm sorry. I got burned out trying to do 8.2.3. I'll try to come back and finish these later, but I'm turning this in now just to get it in.
